@@ -1,5 +1,9 @@
 # ChartPlugin
-ring chart base on JQ, circle chart
+一个基于jquery的环形百分比插件
+
+bower安装：bower install ChartPlugin
+
+参数设置如下
 
 参数	描述	默认值
 
