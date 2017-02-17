@@ -1,15 +1,20 @@
 {
   "name": "ChartPlugin",
+
   "homepage": "https://github.com/dandanlady/ChartPlugin",
   "authors": [
     "dandanlady <2575865998@qq.com>"
   ],
-  "description": "plugin chart circle",
-  "main": "jquery.chartCircle.js",
+
+  "description": "circle Chart plugin base on jquery",
+  "main": "jquery-chartCircle.js",
+  "authors": [
+    "dandanlady"
+  ],
+  "license": "MIT",
   "keywords": [
     "chart"
   ],
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -17,7 +22,16 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
-    "ChartPlugin": "^0.0.1"
-  }
+  "dependencies": {
+    "jquery": "~1.10.2",
+  },
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1"
+  },
+  "_source": "https://github.com/dandanlady/ChartPlugin.git",
+  "_target": "^0.0.1",
+  "_direct": true
 }
