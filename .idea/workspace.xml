@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31923c2e-840d-488d-9cc8-9eb328e067d1" name="Default" comment="">
+<<<<<<< dd07bef82dcb693fff5a3b92caf4d6177416915c
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ChartPlugin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ChartPlugin/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ChartPlugin/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ChartPlugin/example/example-circleChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ChartPlugin/lib/css/jquery.chartCircle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ChartPlugin/lib/js/jquery-chartPlugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/example-circleChart.html" afterPath="$PROJECT_DIR$/example/example-circleChart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/js/jquery-chartPlugin.js" afterPath="$PROJECT_DIR$/lib/js/jquery-chartPlugin.js" />
+>>>>>>> just for merge conflict
     </list>
     <ignored path="ChartPlugin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,6 +67,7 @@
       <file leaf-file-name="bower.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bower.json">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< dd07bef82dcb693fff5a3b92caf4d6177416915c
             <state vertical-scroll-proportion="0.7703928">
               <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
               <folding />
@@ -60,6 +80,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.2222223">
               <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+=======
+            <state vertical-scroll-proportion="0.09063444">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+>>>>>>> just for merge conflict
               <folding />
             </state>
           </provider>
@@ -85,7 +109,10 @@
       <list>
         <option value="$PROJECT_DIR$/lib/js/jquery-chartPlugin.js" />
         <option value="$PROJECT_DIR$/example/example-circleChart.html" />
+<<<<<<< dd07bef82dcb693fff5a3b92caf4d6177416915c
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+>>>>>>> just for merge conflict
         <option value="$PROJECT_DIR$/bower.json" />
       </list>
     </option>
@@ -261,6 +288,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< dd07bef82dcb693fff5a3b92caf4d6177416915c
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.2222223">
@@ -269,6 +297,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> just for merge conflict
     <entry file="file://$PROJECT_DIR$/example/example-circleChart.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.6666667">
@@ -285,10 +315,25 @@
         </state>
       </provider>
     </entry>
+<<<<<<< dd07bef82dcb693fff5a3b92caf4d6177416915c
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7703928">
           <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09063444">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+>>>>>>> just for merge conflict
           <folding />
         </state>
       </provider>
