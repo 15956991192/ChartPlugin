@@ -1,0 +1,23 @@
+{
+  "name": "ChartPlugin",
+  "homepage": "https://github.com/dandanlady/ChartPlugin",
+  "authors": [
+    "dandanlady <2575865998@qq.com>"
+  ],
+  "description": "plugin chart circle",
+  "main": "jquery.chartCircle.js",
+  "keywords": [
+    "chart"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "ChartPlugin": "^0.0.1"
+  }
+}

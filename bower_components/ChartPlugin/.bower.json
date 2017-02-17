@@ -1,0 +1,15 @@
+{
+  "name": "ChartPlugin",
+  "homepage": "https://github.com/dandanlady/ChartPlugin",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "f2ac5ccb994c3cfe0f01b82d4def09b11aed662e"
+  },
+  "_source": "https://github.com/dandanlady/ChartPlugin.git",
+  "_target": "^0.0.1",
+  "_originalSource": "ChartPlugin",
+  "_direct": true
+}

@@ -50,11 +50,11 @@
 							$(this).find('.circle-text-half').css({'line-height': (dimension / 1.45) + 'px', 'font-size' : size + 'px' });
 						} else {
 							$(this).append('<span class="circle-text">' + icon + text + '</span>');
-							$(this).find('.circle-text').css({'line-height': dimension/1.12 + 'px', 'font-size' : size + 'px' });
+							$(this).find('.circle-text').css({'line-height': dimension + 'px', 'font-size' : size + 'px' });
 						}
 					} else {
 						$(this).append('<span class="circle-text">' + icon + text + '</span>');
-						$(this).find('.circle-text').css({'line-height': dimension/1.12 + 'px', 'font-size' : size + 'px' });
+						$(this).find('.circle-text').css({'line-height': dimension + 'px', 'font-size' : size + 'px' });
 					}
                 } else if(settings.icon != undefined) {
 				
